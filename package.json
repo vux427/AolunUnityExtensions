@@ -1,0 +1,9 @@
+{
+    "name": "com.aolun.extensions",
+    "version": "0.0.1",
+    "displayName": "AolunExtensions",
+    "description": "Aolun's Unity3D Extensions package",
+    "unity": "2018.4",
+    "dependencies": {},
+    "unityRelease": "25f1"
+  }

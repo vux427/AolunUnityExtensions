@@ -357,11 +357,11 @@ static public class Extension {
         return true;
     }
 
-    static public void SetCheckedText(this TMPro.TextMeshProUGUI text,string content)
-	{
-		if (text != null)
-			text.text = content;
-	}
+ //    static public void SetCheckedText(this TMPro.TextMeshProUGUI text,string content)
+	// {
+	// 	if (text != null)
+	// 		text.text = content;
+	// }
 
 }
 
